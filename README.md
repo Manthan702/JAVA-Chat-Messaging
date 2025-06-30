@@ -33,8 +33,6 @@ A simple **multi-client chat application** built using **Java Socket Programming
 
 ---
 
-## 📁 Project Structure
-
 # 💬 Java Chat Application
 
 A simple **multi-client chat application** built using **Java Socket Programming** and **Swing GUI**. This project demonstrates real-time communication between multiple clients connected to a central server.
@@ -70,5 +68,4 @@ A simple **multi-client chat application** built using **Java Socket Programming
 
 ---
 
-## 📁 Project Structure
 
